@@ -1,0 +1,4 @@
+1: Sharma A, Dey P. A machine learning approach to unmask novel gene signatures
+and prediction of Alzheimer's disease within different brain regions. Genomics.
+2021 Jul;113(4):1778-1789. doi: 10.1016/j.ygeno.2021.04.028. Epub 2021 Apr 18.
+PMID: 33878365.

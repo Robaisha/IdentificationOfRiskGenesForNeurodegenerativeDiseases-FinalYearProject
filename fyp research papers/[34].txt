@@ -1,0 +1,5 @@
+1: Li J, Zhang Y, Lu T, Liang R, Wu Z, Liu M, Qin L, Chen H, Yan X, Deng S,
+Zheng J, Liu Q. Identification of diagnostic genes for both Alzheimer's disease
+and Metabolic syndrome by the machine learning algorithm. Front Immunol. 2022
+Nov 2;13:1037318. doi: 10.3389/fimmu.2022.1037318. PMID: 36405716; PMCID:
+PMC9667080.
